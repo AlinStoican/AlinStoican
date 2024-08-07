@@ -6,7 +6,15 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I finished Sekiro 4 times :3
 
-<!---
-AlinStoican/AlinStoican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+Skills:
+UnrealEngine 
+C++ Blueprints
+ MongoDB MySQL
+HTML5 CSS 
+Jira Confluence Git Notion
+Photoshop 
+Word PowerPoint Excel
