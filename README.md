@@ -14,7 +14,9 @@ Skills:
 UnrealEngine 
 C++ Blueprints
  MongoDB MySQL
-HTML5 CSS 
-Jira Confluence Git Notion
+HTML5 
+Jira Confluence
+Git
+Notion
 Photoshop 
 Word PowerPoint Excel
