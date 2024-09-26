@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlinStoican
 - 👀 I’m interested in Game Development and Computers 
-- 🌱 I’m currently learning ... AWS and multiplayer implementaion in games
 - 💞️ I’m looking to collaborate on ... any new PC game
 - 📫 How to reach me ...stoicanalinandrei@gmail.com
 - 😄 Pronouns: ... he/him
