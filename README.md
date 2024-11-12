@@ -22,7 +22,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### My Games Content
 
 
-![image](https://github.com/user-attachments/assets/e356fe0e-044d-4d35-93c4-68c17f9c5a1b)
 
 https://github.com/user-attachments/assets/149d6e08-c2bf-42c1-8dd5-85ae23261d11
 
