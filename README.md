@@ -25,9 +25,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 https://github.com/user-attachments/assets/149d6e08-c2bf-42c1-8dd5-85ae23261d11
 
-![Watermills](https://github.com/user-attachments/assets/cba0cfd7-d6f5-443f-9dca-c0e3c82b33cf)
-
-
 
 https://github.com/user-attachments/assets/bacac176-9243-4e41-8d39-969bd314c1ea
 
