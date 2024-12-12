@@ -23,13 +23,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-https://github.com/user-attachments/assets/149d6e08-c2bf-42c1-8dd5-85ae23261d11
-
-
-https://github.com/user-attachments/assets/bacac176-9243-4e41-8d39-969bd314c1ea
-
-https://github.com/user-attachments/assets/fb412847-29bd-4687-b907-1c7ba2f4e902
-
 
 
 
