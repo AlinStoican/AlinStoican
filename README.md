@@ -32,20 +32,27 @@ Collaborating with artists and designers to bring creative visions to life.
 Open Source Contributions
 I am an active contributor to various open-source projects. My contributions focus on improving tools related to software development, game development, and DevOps. I am committed to giving back to the community and helping others learn and grow through shared knowledge.
 
-Projects & Experience
-Here are some highlights of the projects I’ve worked on:
 
-1. [Project Name]
-A brief description of your key project—its purpose, technologies used, and what you achieved.
+Google Cloud Training Online – API Development on Google Cloud's Apigee API Platform
+Issued: November 2024 | Accreditation ID: KPB0MWTFPFF6
 
-2. [Project Name]
-Another project showcasing your expertise in game development, system architecture, or DevOps, providing concrete examples of what you’ve built.
+Google Cloud Training Online – Migrating a Monolithic Website to Microservices on Google Kubernetes Engine
+Issued: October 2024 | Accreditation ID: KNTA8WO77140
 
-Education & Certifications
-[Degree/Certification Name] from [Institution], [Year] – [Brief description of your specialization and achievements]
-Certifications: [Relevant certifications, e.g., AWS Certified Solutions Architect, Kubernetes Certified Administrator]
+Google Cloud Training Online – Orchestrating the Cloud with Kubernetes (AWS)
+Issued: October 2024 | Accreditation ID: 6TRDFZWXUJ9J
 
+IBM – Back-End Development
+Issued: October 2024 | Accreditation ID: 8EZ4WGCCLLN7
 
+Board Infinity – Microservices and Deployment by using ASP.NET
+Issued: October 2024
+
+Udemy – The C++20 Masterclass: From Fundamentals to Advanced
+Issued: June 2024 | Accreditation ID: UC-1d9f2296-bfc2-428-99af-7bb955a6a612
+
+Udemy – Unreal Engine 5 C++ The Ultimate Game Developer Course
+Issued: May 2024 | Accreditation ID: UC-7d47864e-5a26-4ad7-8432-f16b36467a21
 
 
 ### Socials
