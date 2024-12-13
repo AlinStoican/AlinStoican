@@ -33,26 +33,30 @@ Open Source Contributions
 I am an active contributor to various open-source projects. My contributions focus on improving tools related to software development, game development, and DevOps. I am committed to giving back to the community and helping others learn and grow through shared knowledge.
 
 
+
+### Education
+
 Google Cloud Training Online – API Development on Google Cloud's Apigee API Platform
-Issued: November 2024 | Accreditation ID: KPB0MWTFPFF6
+Issued: November 2024
 
 Google Cloud Training Online – Migrating a Monolithic Website to Microservices on Google Kubernetes Engine
-Issued: October 2024 | Accreditation ID: KNTA8WO77140
+Issued: October 2024
 
 Google Cloud Training Online – Orchestrating the Cloud with Kubernetes (AWS)
-Issued: October 2024 | Accreditation ID: 6TRDFZWXUJ9J
+Issued: October 2024
 
 IBM – Back-End Development
-Issued: October 2024 | Accreditation ID: 8EZ4WGCCLLN7
+Issued: October 2024
 
 Board Infinity – Microservices and Deployment by using ASP.NET
 Issued: October 2024
 
 Udemy – The C++20 Masterclass: From Fundamentals to Advanced
-Issued: June 2024 | Accreditation ID: UC-1d9f2296-bfc2-428-99af-7bb955a6a612
+Issued: June 2024
 
 Udemy – Unreal Engine 5 C++ The Ultimate Game Developer Course
-Issued: May 2024 | Accreditation ID: UC-7d47864e-5a26-4ad7-8432-f16b36467a21
+Issued: May 2024
+
 
 
 ### Socials
