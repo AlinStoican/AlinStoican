@@ -28,7 +28,7 @@ Docker & Kubernetes for containerized applications.
 CI/CD Automation: GitHub Actions, Jenkins, and CircleCI.
 Infrastructure as Code (IaC) using tools like Terraform and Ansible.
 Game Development
-With a passion for game development, I specialize in creating interactive and visually appealing games using Unity and Unreal Engine. My experience includes:
+With a passion for game development, I specialize in creating interactive and visually appealing games using Unreal Engine. 
 
 
 
