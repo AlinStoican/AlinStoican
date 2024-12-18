@@ -1,4 +1,4 @@
-<img width="1280" alt="297323400-58051b68-0ec0-484c-af4e-440c76f1ee31" src="https://github.com/user-attachments/assets/2cd1db80-38a1-4d4e-a09d-5634ec95409e" />Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stoican Alin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stoican Alin
 ====================================================================================================================================
 
 *  I'm based in Cluj-Napoca
